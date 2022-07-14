@@ -1,0 +1,42 @@
+﻿生成启动时间为 2020/5/23 16:17:01。
+     1>项目“C:\Users\13625\Desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\MFCMagnet.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (MFCMagnet.vcxproj, MFC尺寸检测.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_DEPRECATE /D _SCL_SECURE_NO_DEPRECATE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MFCMagnetDlg.cpp
+         MFCMagnetDlg.cpp
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(282): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(339): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(361): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(362): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(363): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(364): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(408): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(427): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(428): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(432): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(435): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(448): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(452): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(465): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(483): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(484): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(501): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(513): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(522): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(523): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(525): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(528): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(540): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\13625\desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\mfcmagnetdlg.cpp(543): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+       Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\13625\Desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\Debug\MFC视觉检测.exe" /INCREMENTAL /NOLOGO "D:\OpenCV-3.4.1\build\x86\vc12\lib\*d.lib" opencv_world341d.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\vs2013\VC\Include\Manifest\dpiaware.manifest /PDB:"C:\Users\13625\Desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\Debug\MFC视觉检测.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\13625\Desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\Debug\MFC视觉检测.lib" /MACHINE:X86 Debug\MFCMagnet.res
+         Debug\MFCMagnet.obj
+         Debug\MFCMagnetDlg.obj
+         Debug\MyDeal.obj
+         Debug\stdafx.obj
+         MFCMagnet.vcxproj -> C:\Users\13625\Desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\Debug\MFC视觉检测.exe
+     1>已完成生成项目“C:\Users\13625\Desktop\第二部分视觉\程序\界面撰写 - 输出轴芯尺寸\MFCMagnet.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:11.83
